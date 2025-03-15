@@ -1,0 +1,26 @@
+SMAP
+removeProduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 removeProduct.jsp
+removeProduct.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,14:49
+15,9:64
+23,2:73
+25:75,3
+26,2:78
+28,2:81
+29,8:83
+36,2:91
+37,2:93
+39:95,3
+40,2:98
+42,2:101
+43,24:103
+1#1,82:127
+66#0,3:208
+*E

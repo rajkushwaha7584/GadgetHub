@@ -1,0 +1,26 @@
+SMAP
+updateProductByID_jsp.java
+JSP
+*S JSP
+*F
++ 0 updateProductByID.jsp
+updateProductByID.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+2,13:49
+15,9:63
+23,2:72
+25:74,3
+26:77
+27,2:79
+28,8:81
+36,2:90
+37,2:92
+39:94,3
+40,2:97
+42,2:100
+43,24:102
+1#1,82:126
+66#0,3:207
+*E
